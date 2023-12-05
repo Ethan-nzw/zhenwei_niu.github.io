@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post Doctoral Fellow at [Khalifa University](https://www.ku.ac.ae/). Before that, I received my Ph.D. degree in Robotics from [Khalifa University](https://www.ku.ac.ae/), advised by Prof. [Irfan Hussain](https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en). During the Ph.D. journey, I undertook my internship at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction/index_html), advised by [Dr. Sylvain Calinon](https://www.idiap.ch/~scalinon/).  I received my Master's degree in Mechanical Engineering from [China University of Petroleum](https://www.upc.edu.cn/), advised by [Yonghong Liu](https://medwww.upc.edu.cn/2018/0925/c11313a166613/page.htm). 
+I am currently a Post Doctoral Fellow at [Khalifa University](https://www.ku.ac.ae/). Before that, I received my Ph.D. degree in Robotics from [Khalifa University](https://www.ku.ac.ae/), advised by [Dr. Irfan Hussain](https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en). During the Ph.D. journey, I undertook my internship at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction/index_html), advised by [Dr. Sylvain Calinon](https://www.idiap.ch/~scalinon/).  I received my Master's degree in Mechanical Engineering from [China University of Petroleum](https://www.upc.edu.cn/), advised by [Yonghong Liu](https://medwww.upc.edu.cn/2018/0925/c11313a166613/page.htm). 
 
 My research interests include human-robot interaction, compliant manipulation, robot learning, variable stiffness actuation, and robot collision detection and reaction.  
 
